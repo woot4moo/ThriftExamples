@@ -7,7 +7,7 @@ import org.apache.thrift.transport.TServerSocket;
 import org.apache.thrift.transport.TServerTransport;
 
 /**
- * Created by Travis on 4/22/2014.
+ * equivalent to the unix service.
  */
 public class MessageServer {
     public static MessageHandler handler;

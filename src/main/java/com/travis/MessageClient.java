@@ -12,7 +12,7 @@ import org.apache.thrift.transport.TTransport;
 import java.util.Collection;
 
 /**
- * Created by Travis on 4/22/2014.
+ * Equivalent to QServer for discussion purposes (tomcat,jboss,etc)
  */
 public class MessageClient {
 

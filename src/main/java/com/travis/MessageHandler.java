@@ -10,6 +10,9 @@ import java.util.Set;
 
 /**
  * responsible for handling messages
+ *
+ * This does "server" side type handling.  For the purposes here, the "server" is equivalent to the unix-like service
+ * you would write.
  */
 public class MessageHandler implements  com.woot4moo.MessageService.Iface {
 
