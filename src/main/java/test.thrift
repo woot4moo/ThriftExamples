@@ -1,5 +1,5 @@
-namespace java com.travis
-namespace py com.travis
+namespace java com.woot4moo
+namespace py com.woot4moo
 
 typedef i32 int // We can use typedef to get pretty names for the types we are using
 service MultiplicationService
